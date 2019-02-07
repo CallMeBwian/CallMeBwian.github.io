@@ -303,6 +303,8 @@ ul li {
 	background-color: #ffaa00;
 	min-height: 750px;
 }
+
+
 .banner-text {
 	padding-top: 28%;
 }
@@ -512,8 +514,14 @@ ul li {
 
 .innerbanner {
 	background-color: #ffaa00;
+	height: 100%;
+}
+
+.innerbanner-sub {
+	background-color: dimgray;
 	min-height: 100%;
 }
+
 .innerbanner-text {
 	padding-top: 20%;
 	padding-bottom: 5%;
